@@ -1,0 +1,6 @@
+@import './variables/colors.css';
+@import './components/buttons.css';
+
+div {
+    margin-bottom: 15px;
+}

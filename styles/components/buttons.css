@@ -1,0 +1,57 @@
+.btn {
+    border-radius: 18px;
+    border: 0;
+    height: 58px;
+    padding-inline: 18px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+}
+
+/* standart buttons */
+.btn.btn-primary {
+    background-color: var(--color-primary);
+}
+.btn.btn-dark {
+    background-color: var(--color-dark);
+}
+.btn.btn-light {
+    background-color: white;
+    border: 1px solid var(--color-grey);
+    color: var(--color-dark);
+}
+
+/* small buttons */
+.btn-sm {
+    height: 35px;
+    padding-inline: 20px;
+    font-size: 14px;
+    border-radius: 12px;
+}
+
+/* large buttons */
+.btn-lg {
+    height: 67px;
+    font-weight: 700;
+}
+
+/* extra large buttons */
+.btn-ex-lg {
+    height: 75px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* btn nav */
+.btn-nav {
+    height: 46px;
+    padding-inline: 12px;
+    border-radius: 12px;
+}
+
+
+/* sizes */
+.btn-block {
+    width: 100%;
+    display: block;
+}
