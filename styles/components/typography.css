@@ -1,4 +1,52 @@
-.font-16 {
-    font-size: 16px;
+h1 {
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
 }
 
+h2 {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 33px;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+
+h4 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+}
+
+h5 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.text-secondary ,
+.text-secondary-600 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}
+.text-secondary-600 {
+    font-weight: 600;
+}
+
+.text-small {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+.text-medium {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
